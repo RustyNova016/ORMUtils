@@ -1,0 +1,19 @@
+{
+  "name": "orm-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src/**",
+    "lint&fix": "eslint src/** --fix"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0",
+    "eslint": "8.35.0",
+    "prettier": "^2.8.6",
+    "typescript": "^5.0.2"
+  },
+  "repository": "https://github.com/RustyNova016/ORMUtils.git"
+}
